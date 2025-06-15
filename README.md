@@ -1,5 +1,20 @@
 # 🧠 Crypto Trend Predictor with AI
 
+
+
+
+---
+
+## 🌍 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-%23FF4B4B?logo=streamlit&logoColor=white)](https://crypto-trend-predictor-4bgnnmgyyhwf4otqrhc6vf.streamlit.app/)
+
+👉 Try it out: [crypto-trend-predictor.streamlit.app](https://crypto-trend-predictor-4bgnnmgyyhwf4otqrhc6vf.streamlit.app/)
+
+---
+
+
+
 This project uses RSI (Relative Strength Index) and Fibonacci retracement zones to predict short-term Bitcoin price movements using machine learning — including XGBoost and a Streamlit dashboard.
 
 ---
